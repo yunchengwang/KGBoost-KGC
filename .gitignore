@@ -1,0 +1,5 @@
+output/
+pretrained/
+.idea/
+__pycache__/
+.DS_Store
